@@ -23,4 +23,7 @@ npm i express,
 npm i express-fileupload,
 npm i mongoose,
 npm i multer,
+npm i fs,
+npm i jsonwebtoken,
+npm i evn,
 npm i nodemon 
