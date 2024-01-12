@@ -1,5 +1,6 @@
 # MyVideo
-for fontend module
+Goggle Auth login 
+fontend module
 npx create-react-app client,
 npm i axios,
 npm i gapi-script,
